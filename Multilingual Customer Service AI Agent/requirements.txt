@@ -1,0 +1,7 @@
+groq==0.4.1
+python-dotenv==1.0.0
+pyaudio==0.2.13
+pygame==2.5.2
+keyboard==0.13.5
+speechrecognition==3.10.0
+gTTS==2.3.2
